@@ -1632,8 +1632,8 @@ def gerar_relatorio():
     else:
         if (int(mes) > 12 or int(mes) <= 0):
                 QMessageBox.about(programa5, "Mensagem", "Insira um valor de 01 a 12 para o mes.")
-        elif ("'\'" or "/" or ":" or "?" or '"' or "<" or ">" or "|" or "*" in nome_arquivo):
-            QMessageBox.about(programa5, "Mensagem", "O nome do documento nao pode conter caracteres especiais.")
+        #elif ("'\'" or "/" or ":" or "?" or '"' or "<" or ">" or "|" or "*" in nome_arquivo):
+            #QMessageBox.about(programa5, "Mensagem", "O nome do documento nao pode conter caracteres especiais.")
         elif (int(ano) <= 0):
             QMessageBox.about(programa5, "Mensagem", "Insira um valor maior que 0 para o ano.")
         elif (len(ano) != 4):
