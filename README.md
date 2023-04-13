@@ -62,5 +62,7 @@ RELATÓRIOS
 https://user-images.githubusercontent.com/113831781/231617548-963b92d6-74ae-4b99-8b7c-62114b1aff5a.mp4
 
 
+Toda construção gráfica foi feita através do QT Design.
+
  
 
