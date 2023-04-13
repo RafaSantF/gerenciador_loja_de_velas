@@ -1,8 +1,8 @@
-# gerenciador_loja_de_velas
+# Gerenciador loja de velas
  
  Primeiro repositório criado a fim de apresentar a aplicação.
  
- Este programa foi escrito em Python e teve como objetivo a criação de uma aplicação que gerenciasse diversas atividades de uma loja de velas aromáticas, como:
+ Este programa foi escrito em Python e teve como objetivo a criação de uma aplicação para gerenciamento de diversas atividades de uma loja de velas aromáticas, como:
     - login
     - cadastro de produtos
     - cadastro de pedidos
