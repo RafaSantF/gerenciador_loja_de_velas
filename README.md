@@ -63,7 +63,7 @@ https://user-images.githubusercontent.com/113831781/231617548-963b92d6-74ae-4b99
 
 
 
-Toda construção gráfica foi feita através do QT Design.
+ Toda construção gráfica foi feita através do QT Design.
 
 Nota -> Os código estão organizados em três arquivos, sendo: Main.py para construção do programa, ConexoesBD.py para as conexões com o banco de dados e ResetFields.py para algumas limpezas recorrentes de campos disponíveis para preenchimento.
 
